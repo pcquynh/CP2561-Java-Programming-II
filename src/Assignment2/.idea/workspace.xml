@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e0cd13-4589-4814-a68e-3a81ee67c382" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/CNA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_Java Essential Training Objects and APIs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_Java ObjectOriented Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_JavaScript Essential Training.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_Learning SQL Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_Python Data Structures Stacks Queues and Deques.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Certificates/CertificateOfCompletion_Python ObjectOriented Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/2280_Java_Project_FINAL_HANGMAN.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-JS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-JS-final_QP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/libraries/javaTermProject01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/Project-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/javaTermProject01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-Java/javaTermProject01.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/Project-System-source version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/System-Project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Project/System-Python-Project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/CP1895-ASD-2022Winter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/CP1895-Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/InClassPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan10/Jan10-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan10/Jan10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan10/TableQuestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan10/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan12/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan12/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan12/dict_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan12/dictionary.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan12/storing_dict_in_bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan17/Book_catalog.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan17/VideoGames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan17/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan24/Animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan24/Question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CP1895-Python/InClassPractice/Jan24/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/Assignment1/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/Assignment1/ChequingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/Assignment1/SavingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/Assignment1/TFSAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/Assignment1/TransactionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/ReviewAssignment/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/ReviewAssignment/ChequingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/ReviewAssignment/SavingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Assignment/ReviewAssignment/TransactionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/ChequingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/TFSAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChequingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TFSAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReviewAssignment/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReviewAssignment/ChequingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReviewAssignment/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReviewAssignment/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/ChequingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/MethodMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/TFSAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backup/Assignment1/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/PracticeInClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/out/production/PracticeInClass/Jan11/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/out/production/PracticeInClass/Jan11/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/src/Jan11/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PracticeInClass/src/Jan11/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex1/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex1/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex1/register_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex2/email_list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex2/join.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex2/join.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/faqs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/images/survivor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/images/waffles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex4/faqs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex4/faqs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex4/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex4/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex5/test_scores.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaScript/Assignment/Assignment1_JavaScript/Ex5/test_scores.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SQL/InClassPractice/create_databases - MySQL 5.7 and later.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SQL/Joel Murach - Murach's Mysql, 3rd Edition-Mike Murach and Associates, Incorporated (2019).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../System Analysis/Assignment/CP1945_Assignment_1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../System Analysis/CHAPTER 2_PROJECT MANAGEMENT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../github-learning/System-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../System Analysis/Assignment/Assignment3/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../System Analysis/Assignment/Assignment3/src/MainClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="26sofVhVUos89V5F6LdrzyKnd87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e0cd13-4589-4814-a68e-3a81ee67c382" name="Changes" comment="" />
+      <created>1648221758035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648221758035</updated>
+      <workItem from="1648221759468" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
